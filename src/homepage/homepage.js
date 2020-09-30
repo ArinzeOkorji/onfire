@@ -1,5 +1,5 @@
-$('#header').load('/src/navbar/navbar.html');
-$('#footer').load('/src/footer/footer.html');
+$('#header').load('/src/navbar/index.html');
+$('#footer').load('/src/footer/index.html');
 
 // video slider control
 $('.video-slider').slick({
