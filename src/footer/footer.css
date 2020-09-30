@@ -1,0 +1,16 @@
+footer * {
+    text-align: left;
+}
+
+footer {
+    margin: 0 !important;
+}
+
+footer .ui.container {
+    padding-bottom: 0 !important;
+}
+
+.buttonContainer {
+    display: flex !important;
+    flex-direction: column-reverse;
+}

@@ -1,0 +1,31 @@
+div.links {
+    margin-left: auto;
+}
+
+div.menu {
+    display: flex;
+}
+
+div.menu>div {
+    display: flex;
+}
+
+.segment {
+    border-radius: 0 !important;
+}
+
+nav.segment {
+    padding: 0px !important;
+}
+
+@media (max-width: 567px) {
+    div.menu {
+        overflow-x: scroll;
+    }
+    div.ui.dropdown {
+        position: initial !important;
+    }
+    .links {
+        overflow-x: scroll;
+    }
+}
