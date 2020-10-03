@@ -1,2 +1,2 @@
-$('#header').load('/src/navbar.html');
-$('#footer').load('/src/footer.html');
+$('#header').load('navbar.html');
+$('#footer').load('footer.html');
