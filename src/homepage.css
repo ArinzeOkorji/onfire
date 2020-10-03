@@ -167,16 +167,16 @@ p {
         width: auto;
     }
     .desktopVideo {
-        display: none;
+        display: none !important;
     }
     .mobileVideo {
-        display: block;
+        display: block !important;
     }
     div.menu {
         overflow-x: scroll;
     }
     .mobileClientList {
-        display: block;
+        display: block !important;
     }
     .desktopClientList {
         display: none !important;
