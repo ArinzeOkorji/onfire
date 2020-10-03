@@ -1,1 +1,1 @@
-$('#header').load('../navbar/navbar.html');
+$('#header').load('/src/navbar/navbar.html');
