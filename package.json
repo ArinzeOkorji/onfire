@@ -18,5 +18,6 @@
   "homepage": "https://github.com/ArinzeOkorji/onfire#readme",
   "dependencies": {
     "semantic-ui": "^2.4.2"
-  }
+  },
+  "engines": { "node": "8.11.3" }
 }
